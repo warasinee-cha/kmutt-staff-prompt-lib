@@ -1,0 +1,16 @@
+site_name: KMUTT Staff AI Prompt Library
+
+theme:
+  name: material
+  features:
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+
+nav:
+  - Home: index.md
+
+extra_css:
+  - stylesheets/extra.css
