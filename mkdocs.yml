@@ -12,6 +12,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Basic Prompts: basic-prompts.md
+  - Suno: suno-video.md
 
 extra_css:
   - stylesheets/extra.css
