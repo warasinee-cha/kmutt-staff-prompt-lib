@@ -3,5 +3,5 @@
 Suno AI เป็นตัวอย่างหนึ่งของเครื่องมือที่แสดงให้เห็นถึงความเป็นไปได้ใหม่ๆ ในการสร้างสรรค์ที่ AI นำเสนอ ด้วยความสามารถในการสร้างสรรค์เนื้อเพลงและทำนองที่น่าสนใจ เปิดโอกาสให้ผู้ใช้สามารถต่อยอดความคิดและสร้างสรรค์ผลงานเพลงได้อย่างง่ายดาย
 
 <div class="video-wrapper">
-  <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=tfnj48BPr_0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/tfnj48BPr_0" frameborder="0" allowfullscreen></iframe>
 </div>
